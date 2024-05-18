@@ -1,0 +1,58 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #D6FF6B; 
+    color: #333333;
+}
+
+h1, h2, h3 {
+    color: #5988FF; 
+}
+
+
+.cerceve {
+    width: 800px;
+    margin: 30 auto;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50;
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+
+.pembe {
+    color: #FD98FB; 
+    font-weight: bold;
+}
+
+
+
+button {
+    background-color: #D6FF6B; 
+    color: #333333;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #c1e65a;
+}
